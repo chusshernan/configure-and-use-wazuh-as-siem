@@ -1,0 +1,11 @@
+timestamp,agent.name,rule.mitre.id,rule.description,rule.level,rule.id
+"Mar 27, 2026 @ 06:40:51.119",debian-para-wazuh,,Wazuh agent started.,3,503
+"Mar 27, 2026 @ 06:39:50.028",debian-para-wazuh,"[""T1562.001""]",Wazuh agent stopped.,3,506
+"Mar 27, 2026 @ 06:29:03.474",debian-para-wazuh,"[""T1548.003""]",Successful sudo to ROOT executed.,3,5402
+"Mar 27, 2026 @ 05:51:33.951",debian-para-wazuh,"[""T1548.003""]",Successful sudo to ROOT executed.,3,5402
+"Mar 27, 2026 @ 05:50:59.908",debian-para-wazuh,"[""T1548.003""]",Successful sudo to ROOT executed.,3,5402
+"Mar 27, 2026 @ 05:50:49.903",debian-para-wazuh,"[""T1548.003""]",First time user executed sudo.,4,5403
+"Mar 27, 2026 @ 04:44:07.149",debian-para-wazuh,,Wazuh agent started.,3,503
+"Mar 26, 2026 @ 13:19:21.551",debian-para-wazuh,,Wazuh agent started.,3,503
+"Mar 26, 2026 @ 13:18:34.006",debian-para-wazuh,"[""T1562.001""]",Wazuh agent stopped.,3,506
+"Mar 26, 2026 @ 13:09:42.033",debian-para-wazuh,,New wazuh agent connected.,3,501
